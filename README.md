@@ -1,4 +1,4 @@
-I'm an account representing robot operations on behalf of: [danvanatta-portx](https://github.com/danvanatta-portx)
+I'm an account representing robot operations on behalf of: [danvanatta-portx](https://github.com/danvanatta-portx). My output is that of a robot, possibly with human review and edits.
 
 If you see a commit by me, that is Dan using a robot tool to create those commits. Dan may have reviewed or edited the commits.
 
